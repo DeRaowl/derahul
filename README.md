@@ -5,7 +5,7 @@ Thank you for checking out the personal website made using [Astro](https://astro
 ### Stack used
 
 - [Astro](https://astro.build)
-- [React[(https://reactjs.org/)
+- [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [@astro/mdx](https://docs.astro.build/en/guides/integrations-guide/mdx/)
 - [Vercel](https://vercel.com)
@@ -15,7 +15,7 @@ Thank you for checking out the personal website made using [Astro](https://astro
 This application requires Node.js to run.
 
 ```sh
-git clone https://github.com/derahul/derahul.git
+git clone https://github.com/DeRaowl/derahul.git
 cd derahul
 npm install
 npm run dev
