@@ -1,0 +1,27 @@
+---
+import NavLink from "./NavLink.astro";
+---
+
+<header class="flex items-center justify-between">
+  <div>
+    <a
+      href="/"
+      class="w-6 h-6 rounded flex items-center gap-2 bg-gradient-to-r from-indigo-300 to-purple-400"
+      aria-label="Home"
+    >
+    </a>
+  </div>
+  <nav class="flex gap-3">
+    <NavLink href="/blog">Blog</NavLink>
+    <NavLink href="/snippets">Snippets</NavLink>
+  </nav>
+</header>
+
+<style>
+  header {
+    margin: 1.5rem 2em;
+  }
+  h2 {
+    margin: 0.5em 0;
+  }
+</style>
