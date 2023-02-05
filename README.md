@@ -1,11 +1,13 @@
 # derahul
 
-A personal website made using [Astro](https://astro.build) and a [React](https://reactjs.org).
+Thank you for checking out the personal website made using [Astro](https://astro.build) and a [React](https://reactjs.org).
 
-### Stack
+### Stack used
 
 - [Astro](https://astro.build)
+- [React[(https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [@astro/mdx](https://docs.astro.build/en/guides/integrations-guide/mdx/)
 - [Vercel](https://vercel.com)
 
 ### Running Locally
