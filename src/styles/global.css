@@ -64,7 +64,7 @@ h1 {
   font-family: -apple-system, BlinkMacSystemFont, __Inter_9c9965,
     __Inter_Fallback_9c9965, Roboto, "Segoe UI", Oxygen, Ubuntu, Cantarell,
     "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  font-weight: 900;
+  font-weight: 900 !important;
 }
 
 h2 {
