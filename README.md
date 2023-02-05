@@ -24,3 +24,7 @@ npm run dev
 
 <img width="1394" alt="image" src="https://user-images.githubusercontent.com/26904087/216805802-d022a770-4354-4e10-813c-fd53bb0900bb.png">
 
+License
+<hr />
+
+MIT License.
